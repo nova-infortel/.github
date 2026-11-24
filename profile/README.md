@@ -1,15 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nova-infortel/.github/main/profile/logo.png" width="96" alt="Nova Infortel" />
-
-  <h1>Nova Infortel</h1>
-
-  <p><strong>A plataforma de negócios de Sinop/MT.</strong><br/>
-  Empresas, comércios e serviços da região em um só lugar: busca, contato direto pelo WhatsApp, produtos, vagas e eventos.</p>
-
-  <p>
-    <a href="https://novainfortel.com.br">novainfortel.com.br</a>
-  </p>
-</div>
+# A plataforma de negócios de Sinop/MT.
+Empresas, comércios e serviços da região em um só lugar: busca, contato direto pelo WhatsApp, produtos, vagas e eventos.
 
 ---
 
