@@ -1,8 +1,6 @@
 # A plataforma de negócios de Sinop/MT.
 Empresas, comércios e serviços da região em um só lugar: busca, contato direto pelo WhatsApp, produtos, vagas e eventos.
 
----
-
 ### O que fazemos
 
 - **Busca de empresas e serviços:** endereço, telefone, WhatsApp e horário de funcionamento das empresas de Sinop e região.
